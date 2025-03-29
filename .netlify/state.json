@@ -1,0 +1,16 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Singapore",
+			"country": {
+				"code": "SG",
+				"name": "Singapore"
+			},
+			"timezone": "Asia/Singapore",
+			"latitude": 1.2872,
+			"longitude": 103.8507,
+			"postalCode": "17"
+		},
+		"timestamp": 1743230189834
+	}
+}
